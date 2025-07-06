@@ -48,7 +48,7 @@ Use the included `install.bat` the first time. Subsequent to that you can use th
 ### Manual Steps
 
 ```bash
-git clone https://github.com/yourusername/comfynode-scan-clone
+git clone https://github.com/formulake/comfyuinode-scan-clone.git
 cd comfynode-scan-clone
 python -m venv venv
 venv\Scripts\activate
