@@ -31,16 +31,6 @@ A Gradio-based GUI tool designed to simplify managing `custom_nodes` in your [Co
 
 ---
 
-### Directory Structure
-comfy-node-scan-clone/
-├── app.py                 # Main Gradio app
-├── install.bat            # Windows installer
-├── launch.bat             # Windows launcher
-├── requirements.txt       # Dependencies
-├── README.md              # You are here!
-
----
-
 ## 📦 Installation
 
 ### 🪟 Windows Users
