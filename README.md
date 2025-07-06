@@ -27,7 +27,7 @@ Also included is a simple .bat file to create a fresh install of ComfyUI with al
 - Real-time terminal output and cloning progress display.
 - Supports "Select All" functionality.
 
-![image](https://github.com/user-attachments/assets/ef024d80-72b7-4b5f-8663-6661338b6540)
+![image](https://github.com/user-attachments/assets/7f4c2cb9-02b2-4a66-829d-21b102a3d2e0)
 
 ---
 
