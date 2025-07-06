@@ -52,4 +52,17 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+```
 
+🧪 Compatibility
+Component	Tested Version
+Gradio	4.18.0
+Python	3.12 (with tomli for compatibility)
+Git	Windows Git CLI
+ComfyUI	Latest from main branch
+
+📜 License
+MIT License
+
+🙏 Acknowledgements
+Built to make managing ComfyUI nodes easy. Inspired by the open-source ComfyUI community.
