@@ -2,6 +2,8 @@
 
 A Gradio-based GUI tool designed to simplify managing `custom_nodes` in your [ComfyUI](https://github.com/comfyanonymous/ComfyUI) setup. This app helps scan, export, and restore GitHub repositories in the `custom_nodes` directory using a visual interface with live status updates.
 
+Also included is a simple .bat file to create a fresh install of ComfyUI with all the dependencies and ComfyUI-Manager available at the first run. Just run the `Install ComfyUI` file and it will check for your python version, git install and CUDA version before asking you if you want to proceed. This makes it easy to get ComfyUI up and running before you populate your `custom_nodes` directory with your original list of nodes.
+
 ---
 
 ## 🔧 Features
